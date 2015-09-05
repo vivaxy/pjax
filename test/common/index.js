@@ -6,6 +6,10 @@
 
 var loading = document.querySelector('loading');
 
+window.addEventListener('load', function () {
+    loading.innerHTML = 'loaded';
+}, false);
+
 new Pjax()
     .on('loading', function (e) {
         console.log('loading', e);
