@@ -1,0 +1,24 @@
+{
+  "name": "pjax",
+  "version": "1.0.0",
+  "description": "page ajax",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivaxy/pjax.git"
+  },
+  "keywords": [
+    "pjax"
+  ],
+  "author": "vivaxy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vivaxy/pjax/issues"
+  },
+  "homepage": "https://github.com/vivaxy/pjax#readme",
+  "devDependencies": {
+    "babel": "^5.8.23"
+  }
+}
