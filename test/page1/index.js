@@ -3,4 +3,4 @@
  * @author vivaxy
  */
 'use strict';
-console.log('u r on page2');
+var pageName = 1;

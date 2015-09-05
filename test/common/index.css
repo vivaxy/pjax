@@ -1,0 +1,25 @@
+/**
+ * @since 15-09-05 18:25
+ * @author vivaxy
+ */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+a {
+    display: block;
+    text-align: center;
+    height: 60px;
+    line-height: 60px;
+}
+
+loading {
+    display: block;
+    text-align: center;
+    height: 60px;
+    line-height: 60px;
+}
