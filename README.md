@@ -1,0 +1,2 @@
+# pjax
+page ajax
