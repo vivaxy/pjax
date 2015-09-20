@@ -254,5 +254,4 @@ var Pjax = (function (_EventEmitter) {
 })(_eventEmitter2['default']);
 
 window.Pjax = window.Pjax || Pjax;
-
 },{"./event-emitter":1}]},{},[2]);
