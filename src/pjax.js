@@ -3,7 +3,7 @@
  * @author vivaxy
  */
 'use strict';
-import EventEmitter from './event-emitter';
+import EventEmitter from '../event-emitter/src/event-emitter.js';
 
 class Pjax extends EventEmitter {
     constructor(selector = 'a') {
@@ -129,4 +129,4 @@ class Pjax extends EventEmitter {
     }
 }
 
-window.Pjax = window.Pjax || Pjax;
+export default Pjax;
