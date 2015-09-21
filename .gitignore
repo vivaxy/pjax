@@ -3,4 +3,3 @@ node_modules
 .DS_Store
 event-emitter
 npm-debug.log
-build
