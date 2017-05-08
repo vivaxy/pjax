@@ -1,3 +1,7 @@
+# DEPRICATED
+
+See [turbolinks](https://github.com/turbolinks/turbolinks) instead.
+
 # pjax
 page ajax
 
